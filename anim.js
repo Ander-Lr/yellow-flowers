@@ -14,17 +14,6 @@ var lyricsData = [
   { text: "Y brillamos juntos entre pestañas", time: 63 },
   { text: "Divina, divina sonrisa", time: 68 },
   { text: "Abrazo de Luna, de Luna llena", time: 73 },
-  { text: "Nos dimos todo lo que se nos dio", time: 94 },
-  { text: "Nos dimos todo eso y mucho más", time: 99 },
-  { text: "Para después reconocernos otra vez", time: 104 },
-  { text: "Oh, brillas y brillas tan lindo", time: 120 },
-  { text: "Y brillamos juntos entre pestañas", time: 125 },
-  { text: "Divina, divina sonrisa", time: 130 },
-  { text: "Abrazo de Luna, de Luna llena", time: 135 },
-  { text: "Y así, juntitos los dos", time: 157 },
-  { text: "Y así, lo que se nos dio", time: 162 },
-  { text: "Y así, juntitos los dos", time: 167 },
-  { text: "Y así, lo que se nos da", time: 172 }
 ];
 
 // Animar las letras
