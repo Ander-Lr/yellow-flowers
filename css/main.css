@@ -10,6 +10,12 @@
   --dark-color: #000;
 }
 
+html, body {
+  overflow: hidden !important;
+  width: 100vw;
+  height: 100vh;
+}
+
 body {
   display: flex;
   align-items: flex-end;
@@ -1856,9 +1862,9 @@ body {
 }
 
 .container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
